@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.card-text {
+            text-align: center;
+        }
+        /* Add border radius to cards */
+        .card {
+            border-radius: 10px;
+        }
+        /* Style the lightbox */
+        .modal-content {
+            max-width: 100%;
+        }
+        .modal-dialog {
+            margin: 1rem auto;
+        }
